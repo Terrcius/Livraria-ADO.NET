@@ -1,5 +1,3 @@
-# Livraria
-
 # 📚 Livraria ADO.NET - Projeto Final de Banco de Dados  
 
 **Um sistema de gerenciamento de livraria usando C# e ADO.NET para conexão com SQL Server.**  
